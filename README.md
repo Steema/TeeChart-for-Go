@@ -6,6 +6,9 @@ TeeChart charting / plotting / graphing library for Go, powered by the native
 
 ---
 
+<img width="1810" height="955" alt="image" src="https://github.com/user-attachments/assets/5bb0ee2c-fc3b-4394-8bb9-a604649b0cfe" />
+
+
 ### Notes
 
 Tested on Windows with Go 1.27.
