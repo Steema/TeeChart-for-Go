@@ -1,8 +1,8 @@
 # TeeChart-for-Go
 
-TeeChart charting / plotting / graphing library for Go, powered by the native
+[TeeChart](https://steema.com/) charting / plotting / graphing library for [Go](https://go.dev/) Language, powered by the native
 `teechart.dll` (Windows) or `libteechart.so` / `libteechart.dylib`
-(Linux / macOS).
+(Linux / Mac OSX).
 
 ---
 
