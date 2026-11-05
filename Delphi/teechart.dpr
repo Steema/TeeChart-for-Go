@@ -1,5 +1,5 @@
 {*********************************************}
-{  TeeChart for Rust                          }
+{  TeeChart for Go Language                   }
 {  Copyright (c) 2026 by Steema Software      }
 {  All Rights Reserved                        }
 {*********************************************}
